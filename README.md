@@ -1,2 +1,2 @@
-# bdckit-android
-UI + VIPER Kit for iOS built with Swift by the Wallet Team. Enjoy!
+# bdc-kit-android
+UI + VIPER Kit for Android built with Kotlin by the Wallet Team. Enjoy!
